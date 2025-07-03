@@ -2,10 +2,14 @@
 This project proposes a Semi-Automated Medicine Vending Machine (SMVM) to address the critical issue of 24/7 medicine accessibility, particularly in remote and underserved areas. Inspired by the convenience of ATMs, the SMVM utilizes fingerprint scanner technology for secure and personalized access to essential medications.
 
 BY MY TEAM MEMBERS:
-	JINITH M
-	MAHESH P
-	SAMARTH M KATAGERI
-	DASHRATH RAO
+
+ JINITH M
+	
+ MAHESH P
+	
+ SAMARTH M KATAGERI
+	
+ DASHRATH RAO
 
 This innovative solution aims to reduce healthcare disparities, improve patient outcomes, and enhance overall healthcare accessibility.
 
