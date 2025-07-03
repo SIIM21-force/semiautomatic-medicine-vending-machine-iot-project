@@ -1,11 +1,13 @@
 # semiautomatic-medicine-vending-machine-iot-project
 This project proposes a Semi-Automated Medicine Vending Machine (SMVM) to address the critical issue of 24/7 medicine accessibility, particularly in remote and underserved areas. Inspired by the convenience of ATMs, the SMVM utilizes fingerprint scanner technology for secure and personalized access to essential medications.
+
 BY MY TEAM MEMBERS:
 	JINITH M
 	MAHESH P
 	SAMARTH M KATAGERI
 	DASHRATH RAO
- This innovative solution aims to reduce healthcare disparities, improve patient outcomes, and enhance overall healthcare accessibility.
+
+This innovative solution aims to reduce healthcare disparities, improve patient outcomes, and enhance overall healthcare accessibility.
 
 **********PROBLEM STATEMENT**********
 
@@ -51,4 +53,5 @@ SET A USERNAME AND PASSWORD FOR NODEMCU AND USE ANY PHONE AS HOTSPOT FOR SEAMLES
 4. For NodeMCU configuration: upload nodemcu_security.ino into ESP8266 board and configure it.
 
 **********THANK YOU FOR THE SUPPORT BY USING THIS PROJECT**********
+
 **********MAKE ANY CHANGES AS YOU WISH, THE SOURCE CODE IS ALL YOURS**********
